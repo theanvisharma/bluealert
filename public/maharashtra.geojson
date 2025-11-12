@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "district": "Mumbai" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[72.8, 18.9], [73, 18.9], [73, 19.2], [72.8, 19.2], [72.8, 18.9]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": { "district": "Pune" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[73.7, 18.4], [74, 18.4], [74, 18.8], [73.7, 18.8], [73.7, 18.4]]]
+      }
+    }
+  ]
+}

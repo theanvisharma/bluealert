@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": { "st_nm": "Maharashtra" },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[68, 8], [97, 8], [97, 37], [68, 37], [68, 8]]]
+      }
+    }
+  ]
+}
